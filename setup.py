@@ -18,7 +18,7 @@ setup(
     author="Fabank",
     author_email="developers@fabank.com.br",
     keywords=["ecdsa", "elliptic curve", "elliptic", "curve", "fabank", "cryptograph", "secp256k1", "prime256v1"],
-    version="2.2.0"
+    version="1.0.0"
 )
 
 
